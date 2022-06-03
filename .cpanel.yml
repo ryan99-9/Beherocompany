@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1658370/public_html/w.com
+    - export DEPLOYPATH=/home/u1658370/public_html/whichisofficial.com
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp prepos-6.config $DEPLOYPATH
     - /bin/cp prepos.config $DEPLOYPATH
